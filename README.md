@@ -1,12 +1,13 @@
 ![I am Business Intelligence Analyst, Mentor & Data Strategies](https://media.licdn.com/dms/image/v2/D5616AQHoZhF9i7Pzxg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737616640039?e=1743638400&v=beta&t=NkFnMP13LQfg1lzfNWqqfs4PITQTQJOSFFgSKA3ZMmU)
-                                                                                  ### Hi there 👋, my name is Sabbir Hossain###
-                                                                    #### I am a Business Intelligence Analyst, Mentor & Data Strategies###
+### Hi there 👋, my name is Sabbir Hossain
+#### I am a Business Intelligence Analyst, Mentor & Data Strategies
 My journey into data started over six years ago, fueled by a deep curiosity to understand the stories hidden in numbers. Throughout my career, I’ve worked across diverse domains, including academia, research, fintech, the development sector, and e-commerce, using data as a powerful tool to drive impact and innovation.
 
 Skills: Power BI/Excel/SQL/ Python/Machine learning 
 
-- 🔭 I’m currently working on Senior Business Intelligence Analyst at Buddy&Selly 
-- 📫 How to reach me: https://topmate.io/sabbir_hossain_rossi 
+- 🔭 I’m currently working as Senior Business Intelligence Analyst at Buddy&Selly 
+-![image](https://github.com/user-attachments/assets/c6defa94-cb1f-43c7-9f77-691af6ec0f67)
+ How to reach me: https://topmate.io/sabbir_hossain_rossi 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BI-with-Sabbir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shabbir-hossain-rossi//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/shabbirhossain.rossi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://topmate.io/sabbir_hossain_rossi)  
