@@ -1,7 +1,6 @@
-### Hi there 👋, my name is Sabbir Hossain
-#### I am a Business Intelligence Analyst, Mentor & Data Strategies
 ![I am Business Intelligence Analyst, Mentor & Data Strategies](https://media.licdn.com/dms/image/v2/D5616AQHoZhF9i7Pzxg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737616640039?e=1743638400&v=beta&t=NkFnMP13LQfg1lzfNWqqfs4PITQTQJOSFFgSKA3ZMmU)
-
+                                                                                  ### Hi there 👋, my name is Sabbir Hossain
+                                                                    #### I am a Business Intelligence Analyst, Mentor & Data Strategies
 My journey into data started over six years ago, fueled by a deep curiosity to understand the stories hidden in numbers. Throughout my career, I’ve worked across diverse domains, including academia, research, fintech, the development sector, and e-commerce, using data as a powerful tool to drive impact and innovation.
 
 Skills: Power BI/Excel/SQL/ Python/Machine learning 
