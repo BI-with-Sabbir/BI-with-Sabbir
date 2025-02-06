@@ -1,4 +1,3 @@
-![I am Business Intelligence Analyst, Mentor & Data Strategies]
 ![Rossi Vai final Linkdin](https://github.com/user-attachments/assets/69e308a5-50c3-428c-b907-a4a7e9fca641)
 
 ### Hi there 👋, my name is Sabbir Hossain
