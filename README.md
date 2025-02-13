@@ -11,10 +11,10 @@ Power BI | Excel | SQL | Python | Machine Learning
 - 📫 How to reach me: [Topmate](https://topmate.io/sabbir_hossain_rossi)  
 
 ### Connect with me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='color:white;'>](https://github.com/BI-with-Sabbir)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style='color:white;'>](https://www.linkedin.com/in/shabbir-hossain-rossi/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40' style='color:white;'>](https://www.facebook.com/shabbirhossain.rossi)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' style='color:white;'>](https://topmate.io/sabbir_hossain_rossi)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='fill:#E0E0E0;'>](https://github.com/BI-with-Sabbir)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style='fill:#E0E0E0;'>](https://www.linkedin.com/in/shabbir-hossain-rossi/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40' style='fill:#E0E0E0;'>](https://www.facebook.com/shabbirhossain.rossi)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' style='fill:#E0E0E0;'>](https://topmate.io/sabbir_hossain_rossi)  
 
 ### Badges:
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>  
